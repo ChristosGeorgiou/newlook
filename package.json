@@ -1,14 +1,15 @@
 {
-  "name": "website-optikanewlook",
+  "name": "newlook",
   "version": "1.0.2",
   "description": "optikanewlook.gr",
+  "private": true,
   "author": {
     "name": "Christos Georgiou",
     "email": "georgiou.christos@outlook.com",
     "url": "http://cgeosoft.com"
   },
   "dependencies": {
-    "gulp-cg-toolkit": "2.1.1",
+    "gulp-cg-toolkit": "4.0.1",
     "milligram-sass": "^1.3.0"
   }
 }
